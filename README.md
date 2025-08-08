@@ -19,12 +19,18 @@ This Power BI project provides a comprehensive dashboard analyzing coffee sales 
 
 - `Coffe.pbix`: Main Power BI report file
 - `README.md`: Project overview and documentation
+- `Data Source` :
 
 ## 🚀 How to Use
 
 1. Open `Coffe.pbix` using **Power BI Desktop**.
 2. Explore the interactive visuals using filters and slicers.
 3. Customize or extend the report using your own data.
+
+##📸 Dashboard Overview
+
+<img width="812" height="489" alt="Dashboard " src="https://github.com/user-attachments/assets/c6bc82a0-2eca-41a6-a7d4-5f7ca46b9140" />
+
 
 ## 🧠 Insights Uncovered
 
